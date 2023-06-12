@@ -19,7 +19,7 @@ I am fairly proficient with:
 
 If you need to get in touch, these will probably get you the quickest responses:
 
-- Discord: Shebang#0831
+- Discord: @shebang
 - [Email](mailto:celestecaprine@protonmail.com)
 - [Mastodon](https://mastodon.sdf.org/@shebang)
 
